@@ -1,4 +1,4 @@
-***How to install Docker on Ubuntu Server 22.04***
+### How to install Docker on Ubuntu Server 22.04 ###
 
 Docker is a powerful platform for developing, shipping, and running applications inside lightweight, portable containers. This tutorial will guide you through the process of installing Docker on an Ubuntu 22.04 server using EcoStack Cloud.
 
